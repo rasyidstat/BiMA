@@ -14,7 +14,7 @@ data/interim.zip
 data/*/*
 !data/*/.gitkeep
 !data/meta/*
-data/raw/*
+!data/raw/*
 !data/sub/*
 
 # Byte-compiled / optimized / DLL files
