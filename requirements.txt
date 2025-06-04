@@ -1,0 +1,16 @@
+# Essentials
+# numpy==1.26.4
+numpy==1.23.5
+pandas==2.2.3
+pyarrow==17.0.0
+scikit-learn==1.2.2
+lightgbm==4.5.0
+pymsis==0.10.0
+loguru==0.7.3
+ipython
+
+# Viz (optional)
+plotly
+matplotlib
+kaleido
+nbformat
